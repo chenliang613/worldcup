@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:www.espn.com)",
+      "WebFetch(domain:www.dazn.com)",
+      "WebFetch(domain:sports.yahoo.com)"
+    ]
+  }
+}
